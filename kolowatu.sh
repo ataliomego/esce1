@@ -1,4 +1,4 @@
-
+I
 #!/bin/bash
 #Script by AtaLioMego™
 
@@ -378,3 +378,4 @@ secs_to_human "$(($(date +%s) - ${start}))"
 echo "$BGreen Auto reboot 10 Sec $NC"
 sleep 10
 reboot
+fi
