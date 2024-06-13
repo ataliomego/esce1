@@ -18,7 +18,6 @@ echo -e "$BBlue                     Autoscript Xray Mod    $NC"
     echo -e "$BBlue              88Numb || Cincop by AtaLioMego      $NC"
     echo -e "$BYellow----------------------------------------------------------$NC"
 
-MYIP=$(curl -sS ipv4.icanhazip.com)
 MYIP=$(wget -qO- ipinfo.io/ip);
 echo "memeriksa vps anda"
 sleep 0.5
